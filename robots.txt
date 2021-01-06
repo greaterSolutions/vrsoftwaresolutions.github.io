@@ -1,1 +1,1 @@
-User-agent: * Disallow:
+User-agent: Bingbot Disallow: /homepage/index.html
